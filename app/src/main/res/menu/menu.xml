@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:appNs="http://schemas.android.com/apk/res-auto">
+
+
+     <item android:id="@+id/mainCourse"
+       android:title="MainCourse"
+         appNs:showAsAction="always">
+
+     </item>
+
+
+     <item android:id="@+id/starter"
+         android:title="Starter"
+         appNs:showAsAction="always">
+
+     </item>
+
+</menu>
